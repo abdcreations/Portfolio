@@ -5,12 +5,12 @@ import { FaInstagram } from "react-icons/fa6";
 export const contactIcons = [
   {
     id: 1,
-    href: "https://github.com/abdcreations",
+    href: "https://github.com/abhineet-deep",
     icon: <FaGithub size={30} />,
   },
   {
     id: 2,
-    href: "https://www.linkedin.com/in/abhineet-deep-014b5119a/",
+    href: "https://www.linkedin.com/in/abhineetdeep/",
     icon: <IoLogoLinkedin size={32} />,
   },
   {

@@ -6,7 +6,7 @@ export const projects = [
                   engage in chat conversations, 
                   upload media.It also includes an Admin dashboard with features like filtering,searching,sorting`,
     imageSrc: "",
-    githubLink: "https://github.com/abdcreations",
+    githubLink: "https://www.linkedin.com/in/abhineetdeep/",
     liveDeploylink: "",
     projectYear: "2023",
     projectTechnologies: [
@@ -22,7 +22,7 @@ export const projects = [
     title: "Personal Portfolio",
     description: `This is my personal portfolio website. I created (still creating) using Next.js, Typescript, Tailwind CSS`,
     imageSrc: "",
-    githubLink: "https://github.com/abdcreations",
+    githubLink: "https://www.linkedin.com/in/abhineetdeep/",
     liveDeploylink: "",
     projectYear: "2024",
     projectTechnologies: ["Next.js", "React.js", "Tailwind CSS", "Typescript"],

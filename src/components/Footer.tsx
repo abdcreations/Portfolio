@@ -16,7 +16,7 @@ const Footer = () => {
         Typescript,Tailwind CSS, Framer motion, Resend, Hosted on Vercel{"  "}
       </p>
       <a
-        href="https://github.com/abdcreations"
+        href="https://github.com/abhineet-deep"
         target="_blank"
         className="mt-2 dark:text-green-wala hover:border-b border-solid dark:border-green-wala border-black-wala w-fit"
       >

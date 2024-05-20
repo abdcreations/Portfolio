@@ -40,14 +40,14 @@ const Contact = () => {
 
           {/* Contact buttons */}
           <div className="flex gap-8 text-3xl justify-center md:justify-start dark:text-green-wala">
-            <a href="https://www.linkedin.com/in/abhineet-deep-014b5119a/" target="_blank">
+            <a href="https://www.linkedin.com/in/abhineetdeep/" target="_blank">
               <IoLogoLinkedin />
             </a>
 
-            <a href="https://github.com/abdcreations" target="_blank">
+            <a href="https://github.com/abhineet-deep" target="_blank">
               <FaGithub />
             </a>
-            <a href="https://twitter.com/Abhineet__Deep" target="_blank">
+            <a href="https://x.com/abhineetdeep02" target="_blank">
               <FaXTwitter />
             </a>
             <a href="https://www.instagram.com/abhineet__deep/" target="_blank">

@@ -11,6 +11,8 @@ export async function sendEmail(formData: FormData) {
 
   if (subject && message && senderEmail) {
     try {
+      console.log("yes");
+      
       const { data, error } = await resend.emails.send({
         from: "onboarding@resend.dev",
         to: "abhineetdeep002@gmail.com",
@@ -19,6 +21,7 @@ export async function sendEmail(formData: FormData) {
         html: message as string,
       });
       if (error) {
+        console.log(error);
         return false;
       }
       return true;
