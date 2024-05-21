@@ -4,7 +4,7 @@ Welcome to my portfolio website! This project showcases my skills, projects, and
 
 ## Screenshots
 
-![App Screenshot]( ![alt text](image.png) )
+![alt text](image.png)
 
 ## Features
 
