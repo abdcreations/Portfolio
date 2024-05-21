@@ -38,13 +38,15 @@ const Experience = () => {
             iconStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
             icon={<MdWork />}
           >
-            <h3 className="">Full Stack Intern</h3>
-            <h4 className="">Rapidoreach,Remote</h4>
+            <h3 className="">6 API Migration, Bank Of Montreal (TCS) |</h3>
+            <h4 className="">System Engineer (Gurugram, India) Jun 2022 - Present</h4>
             <p>
-              Created their Developers API portal, Implemented Salesforce Login,
-              Created Landing Pages, Bug Fixes
+            Worked on the migration of 6 API projects from Tibco’s on-premise service to AWS using AWS CDK, ensuring a smooth
+transition to cloud-based architecture.
+
+
             </p>
-            <p>React, Next.js 14, Typescript, Jotai, MongoDB</p>
+            <p>React, Next.js 14, Typescript, MongoDB</p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
             visible={inView}
